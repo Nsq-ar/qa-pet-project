@@ -1,0 +1,6 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","27","Запрос несуществующего питомца возвращает 404","tests.api","2026-09-22","passed","2026-09-22","TestPetstoreApi","test_petstore_api","",""
+"","423","Создание питомца и получение его по id","tests.api","2026-09-22","passed","2026-09-22","TestPetstoreApi","test_petstore_api","",""
+"","75","Поиск питомцев по статусу 'available'","tests.api","2026-09-22","passed","2026-09-22","TestPetstoreApi","test_petstore_api","",""
+"","238","Отметка задачи как выполненной","tests.ui","2026-09-22","passed","2026-09-22","TestTodoMvcUi","test_todomvc_ui","",""
+"","325","Добавление новой задачи в список","tests.ui","2026-09-22","passed","2026-09-22","TestTodoMvcUi","test_todomvc_ui","",""
